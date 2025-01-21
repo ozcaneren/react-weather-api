@@ -26,7 +26,7 @@ function App() {
 		<div className="">
 			<div className="flex flex-col justify-center items-center">
 				<h1 className="text-4xl font-poppins font-bold text-gray-200">
-					Weather API
+					Weather API Beytonun anasinin amina yarragimi sokayim
 				</h1>
 				<div className="mb-3">
 					<input
