@@ -37,6 +37,10 @@ function App() {
 					/>
 					<City city={city} />
 				</div>
+				<div className="flex flex-col justify-center items-center">
+					<h1>{"↑"}</h1>
+					<h1>Strafin anasini siktigim yer</h1>
+				</div>
 			</div>
 		</div>
 	);
